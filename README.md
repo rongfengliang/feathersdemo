@@ -1,9 +1,5 @@
 # feathers-chat
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-chat.svg)](https://greenkeeper.io/)
-[![Build Status](https://img.shields.io/travis/feathersjs/feathers-chat/master.svg)](https://travis-ci.org/feathersjs/feathers-chat)
-[![Dependency Status](https://img.shields.io/david/feathersjs/feathers-chat.svg)](https://david-dm.org/feathersjs/feathers-chat)
-
 > A Feathers real-time chat application
 
 > __Important:__ This repository requires Node v8.0.0 or later.
